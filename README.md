@@ -15,5 +15,8 @@ bug? its feature
 I use ibisPaint x btw
   ```
 
-see [`weirdo-garden`](https://github.com/weirdo-kido/Spoon/discussions)
+<div align="center">
+  
+visit [`weirdo-garden`](https://github.com/weirdo-kido/Spoon/discussions)
+</div>  
 </details>
