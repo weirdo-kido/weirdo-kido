@@ -12,7 +12,6 @@
 [![html](https://img.shields.io/badge/html-languages-%23E34F26?logo=html5&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) </br>
 </div>
 
-#### more 
 <details>
 </br>
 
