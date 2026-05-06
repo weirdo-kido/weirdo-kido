@@ -19,4 +19,9 @@ no|repo|license
 0|[to the void](https://github.com/weirdo-kido/to-the-void)|MIT
 ?|[?](https://github.com/weirdo-kido/spantastic/)|?
   
+---
+no|machine
+:---:|---
+1|lenovo ideapad 110
+2|samsung a20s
 </details>
