@@ -20,8 +20,8 @@ no|repo|license
 ?|[?](https://github.com/weirdo-kido/spantastic/)|?
   
 ---
-no|machine
-:---:|---
-1|lenovo ideapad 110
-2|samsung a20s
+no|machine|os
+:---:|---|---
+1|lenovo ideapad 110|win 10
+2|samsung a20s|one ui 3.1
 </details>
